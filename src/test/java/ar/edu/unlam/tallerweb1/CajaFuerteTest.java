@@ -1,4 +1,4 @@
-package ar.edu.unlam.tallerweb1.persistencia;
+package ar.edu.unlam.tallerweb1;
 
 import ar.edu.unlam.tallerweb1.CajaFuerte;
 import org.junit.Test;
