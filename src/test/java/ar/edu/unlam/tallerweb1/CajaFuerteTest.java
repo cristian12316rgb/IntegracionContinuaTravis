@@ -1,6 +1,5 @@
 package ar.edu.unlam.tallerweb1;
 
-import ar.edu.unlam.tallerweb1.CajaFuerte;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
