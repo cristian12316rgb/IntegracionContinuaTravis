@@ -18,7 +18,7 @@ public class CajaFuerteTest {
         whenCreoUnaCajaFuerte();
             /*
             validacion
-            the(entonces)
+            then(entonces)
             */
         thenCajaFuerteEstaAbierta(caja);
     }
